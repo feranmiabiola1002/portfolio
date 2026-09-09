@@ -1,0 +1,10 @@
+{
+  "name": "frenytech-website",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "FRENYTECH business website with a Vercel serverless contact form endpoint.",
+  "dependencies": {
+    "resend": "^6.0.0"
+  }
+}
